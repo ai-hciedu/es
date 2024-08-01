@@ -1,4 +1,3 @@
-# ./es
 <img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400">
 
 # Taller: IA responsable en la enseñanza de IHC

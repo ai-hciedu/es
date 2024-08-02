@@ -7,7 +7,7 @@ Español <a href="https://ai-hciedu.github.io/mexihc24ws/">English</a><br><br>
 Únete a nosotros para el 1er Taller sobre IA Responsable en la Enseñanza de IHC, este año en el contexto de la **<a href="https://www.mexihc.org/2024/en">10a Conferencia Internacional Mexicana sobre Interacción Humano-Computadora (MexIHC 2024)</a>**. Sólo envía un artículo corto para compartir tus avances o posición respecto a los temas de interés. Los datos clave son los siguientes: 
 
 <ul>- <b>Evento:</b> presencial (Saltillo, Coahuila, México)</ul>
-<ul>- <b>Fecha del taller:</b> *Por determinar*</i> (un día durante MexIHC)</ul>
+<ul>- <b>Fecha del taller:</b> <i>*Por determinar*</i> (un día durante MexIHC)</ul>
 <ul>- <b>Duración del taller:</b> 4 horas</ul>
 <ul>- <b>Fecha límite para envíos:</b> 9 de agosto de 2024, 23:59h, AoE</ul>
 <ul>- <b>Notificación de aceptación:</b> 23 de agosto de 2024</ul>

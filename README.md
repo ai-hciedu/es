@@ -9,8 +9,8 @@ Español <a href="https://ai-hciedu.github.io/mexihc24ws/">English</a><br><br>
 <ul>- <b>Evento:</b> presencial (Saltillo, Coahuila, México)</ul>
 <ul>- <b>Fecha del taller:</b> <i>*Por determinar*</i> (un día durante MexIHC)</ul>
 <ul>- <b>Duración del taller:</b> 4 horas</ul>
-<ul>- <b>Fecha límite para envíos:</b> ~9 de agosto de 2024~ 23 de agosto de 2024, 23:59h, AoE</ul>
-<ul>- <b>Notificación de aceptación:</b> ~23 de agosto de 2024~ 30 de agosto de 2024</ul>
+<ul>- <b>Fecha límite para envíos:</b> <s>9 de agosto de 2024</s> 23 de agosto de 2024, 23:59h, AoE</ul>
+<ul>- <b>Notificación de aceptación:</b> <s>23 de agosto de 2024</s> 30 de agosto de 2024</ul>
 <ul>- <b>Envío final de versión lista para la publicación:</b> 13 de septiembre de 2024</ul>
 <ul>- <b>Fechas de la conferencia:</b> 6 a 8 de noviembre de 2024</ul>
 <ul>- <b>Envíe su artículo al correo:</b> <a href="responsibleai.hciedu@gmail.com">responsibleai.hciedu@gmail.com</a></ul>

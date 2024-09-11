@@ -7,11 +7,11 @@ Español <a href="https://ai-hciedu.github.io/mexihc24ws/">English</a><br><br>
 ## Artículos aceptados<br><br> 
 Artículos en formato tradicional:<br>
 <ul>- López, Alicia; Romero, Alfredo. <i>Desarrollo de un juego serio multiplataforma para repasar contenido por medio de ejercicios a través de un sistema de evaluación de Inteligencia Artificial</i></ul>
-<ul>- Medina Nieto, María Auxilio; Rodríguez Huesca, Rebeca; Pérez Conde, Gudelia Pilar; Sánchez Esgua, Gabriela, Barrera Rojas, José Julián. <i>Definiciones, herramientas y aplicaciones de IA generativa</i></ul><br>
-<ul>- Prietch, Soraia S.; Aguilar-González, Georgina; Cordero-Cid, Luz Adriana; Flores-Hernández, María Luisa; Guevara-Cano, Cristhian Daniel; Gutiérrez-Flores, Jeshu; Reyes-Peña, Cecilia; Rojas-Rojas, Diego Gerardo; Ruiz-Vivanco, Guadalupe; Sabines-Córdova, Jaime; Tovar-Vidal, Mireya; González-Calleros, Juan Manuel; Guerrero-García, Josefina. <i>Proceso interdisciplinario de codiseño instruccional de planes de clases para la promoción del uso de la IA de manera responsable</i></ul>
+<ul>- Medina Nieto, María Auxilio; Rodríguez Huesca, Rebeca; Pérez Conde, Gudelia Pilar; Sánchez Esgua, Gabriela, Barrera Rojas, José Julián. <i>Definiciones, herramientas y aplicaciones de IA generativa</i></ul>
+<ul>- Prietch, Soraia S.; Aguilar-González, Georgina; Cordero-Cid, Luz Adriana; Flores-Hernández, María Luisa; Guevara-Cano, Cristhian Daniel; Gutiérrez-Flores, Jeshu; Reyes-Peña, Cecilia; Rojas-Rojas, Diego Gerardo; Ruiz-Vivanco, Guadalupe; Sabines-Córdova, Jaime; Tovar-Vidal, Mireya; González-Calleros, Juan Manuel; Guerrero-García, Josefina. <i>Proceso interdisciplinario de codiseño instruccional de planes de clases para la promoción del uso de la IA de manera responsable</i></ul><br>
 
 Artículos en formato innovador:<br>
-<ul>- García-Macías, J. Antonio; Martínez, Ana I.; Caro, Karina ; Martínez, Evelio. <i>Llamado a Colaboración - Ética aplicada a las tecnologías de la información</i></ul><br>
+<ul>- García-Macías, J. Antonio; Martínez, Ana I.; Caro, Karina ; Martínez, Evelio. <i>Llamado a Colaboración - Ética aplicada a las tecnologías de la información</i></ul>
 <ul>- Prietch, Soraia S.; Cornejo, Raymundo. <i>Diagnóstico de la ética en la investigación en las ciencias de la computación en México</i></ul><br>
 
 ## Descripción<br> 

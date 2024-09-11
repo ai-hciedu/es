@@ -4,7 +4,7 @@ Español <a href="https://ai-hciedu.github.io/mexihc24ws/">English</a><br><br>
 
 <img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400">
 
-## Artículos aceptados<br><br> 
+## Artículos aceptados<br>
 Artículos en formato tradicional:<br>
 <ul>- López, Alicia; Romero, Alfredo. <i>Desarrollo de un juego serio multiplataforma para repasar contenido por medio de ejercicios a través de un sistema de evaluación de Inteligencia Artificial</i></ul>
 <ul>- Medina Nieto, María Auxilio; Rodríguez Huesca, Rebeca; Pérez Conde, Gudelia Pilar; Sánchez Esgua, Gabriela, Barrera Rojas, José Julián. <i>Definiciones, herramientas y aplicaciones de IA generativa</i></ul>

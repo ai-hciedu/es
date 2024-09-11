@@ -1,7 +1,18 @@
 Español <a href="https://ai-hciedu.github.io/mexihc24ws/">English</a><br><br>
-<img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400">
 
 # Taller: IA responsable en la enseñanza de IHC
+
+<img src="AIinHCI_ChatGPT4o.png" alt="AI created image presenting a scenario with human-AI and human-human collaboration" width="400" height="400">
+
+## Artículos aceptados<br><br> 
+Artículos en formato tradicional:<br>
+<ul>- López, Alicia; Romero, Alfredo. <i>Desarrollo de un juego serio multiplataforma para repasar contenido por medio de ejercicios a través de un sistema de evaluación de Inteligencia Artificial</i></ul>
+<ul>- Medina Nieto, María Auxilio; Rodríguez Huesca, Rebeca; Pérez Conde, Gudelia Pilar; Sánchez Esgua, Gabriela, Barrera Rojas, José Julián. <i>Definiciones, herramientas y aplicaciones de IA generativa</i></ul><br>
+<ul>- Prietch, Soraia S.; Aguilar-González, Georgina; Cordero-Cid, Luz Adriana; Flores-Hernández, María Luisa; Guevara-Cano, Cristhian Daniel; Gutiérrez-Flores, Jeshu; Reyes-Peña, Cecilia; Rojas-Rojas, Diego Gerardo; Ruiz-Vivanco, Guadalupe; Sabines-Córdova, Jaime; Tovar-Vidal, Mireya; González-Calleros, Juan Manuel; Guerrero-García, Josefina. <i>Proceso interdisciplinario de codiseño instruccional de planes de clases para la promoción del uso de la IA de manera responsable</i></ul>
+
+Artículos en formato innovador:<br>
+<ul>- García-Macías, J. Antonio; Martínez, Ana I.; Caro, Karina ; Martínez, Evelio. <i>Llamado a Colaboración - Ética aplicada a las tecnologías de la información</i></ul><br>
+<ul>- Prietch, Soraia S.; Cornejo, Raymundo. <i>Diagnóstico de la ética en la investigación en las ciencias de la computación en México</i></ul><br>
 
 ## Descripción<br> 
 Únete a nosotros para el 1er Taller sobre IA Responsable en la Enseñanza de IHC, este año en el contexto de la **<a href="https://www.mexihc.org/2024/en">10a Conferencia Internacional Mexicana sobre Interacción Humano-Computadora (MexIHC 2024)</a>**. Sólo envía un artículo corto para compartir tus avances o posición respecto a los temas de interés. Los datos clave son los siguientes: 

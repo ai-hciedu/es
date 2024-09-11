@@ -12,7 +12,7 @@ Artículos en formato tradicional:<br>
 
 Artículos en formato innovador:<br>
 <ul>- García-Macías, J. Antonio; Martínez, Ana I.; Caro, Karina ; Martínez, Evelio. <i>Llamado a Colaboración - Ética aplicada a las tecnologías de la información</i></ul>
-<ul>- Prietch, Soraia S.; Cornejo, Raymundo. <i>Diagnóstico de la ética en la investigación en las ciencias de la computación en México</i></ul><br>
+<ul>- Prietch, Soraia S.; Cornejo, Raymundo. <i>Diagnóstico de la ética en la investigación en las ciencias de la computación en México</i></ul>
 
 ## Descripción<br> 
 Únete a nosotros para el 1er Taller sobre IA Responsable en la Enseñanza de IHC, este año en el contexto de la **<a href="https://www.mexihc.org/2024/en">10a Conferencia Internacional Mexicana sobre Interacción Humano-Computadora (MexIHC 2024)</a>**. Sólo envía un artículo corto para compartir tus avances o posición respecto a los temas de interés. Los datos clave son los siguientes: 

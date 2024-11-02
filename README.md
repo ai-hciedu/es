@@ -17,13 +17,13 @@ Artículos en formato innovador:<br>
 <ul>- Lopez-Hurtado, Isabel. <i>Integrating HCI into AI Education</i></ul>
 
 ## Programa<br>
-(~15 min) Bienvenida y presentación de las personas participantes y del taller
-(~60 min) Ponente invitada: Dra. Isabel Lopez Hurtado, “Integrating HCI into AI Education”
-(~60 min) Presentaciones de los artículos aceptados 
-(~30 min) Receso
-(~30 min) Preguntas, comentarios, sugerencias y discusión alrededor de los temas presentados en la ponencia y por los autores de trabajos aceptados
-(~50 min) Presentación y discusión (abierta, entre todos) de herramientas, metodologías, estratégias, artículos, etc. sobre el uso de la IA en la enseñanza de IHC
-(~40 min) Codiseño instruccional de lecciones de IHC sobre y con el uso responsable de la IA 
+(~15 min) Bienvenida y presentación de las personas participantes y del taller<br>
+(~60 min) Ponente invitada: Dra. Isabel Lopez Hurtado, “Integrating HCI into AI Education”<br>
+(~60 min) Presentaciones de los artículos aceptados<br>
+(~30 min) Receso<br>
+(~30 min) Preguntas, comentarios, sugerencias y discusión alrededor de los temas presentados en la ponencia y por los autores de trabajos aceptados<br>
+(~50 min) Presentación y discusión (abierta, entre todos) de herramientas, metodologías, estratégias, artículos, etc. sobre el uso de la IA en la enseñanza de IHC<br>
+(~40 min) Codiseño instruccional de lecciones de IHC sobre y con el uso responsable de la IA<br>
 (~5 min) Cierre
 
 ## Descripción<br> 
